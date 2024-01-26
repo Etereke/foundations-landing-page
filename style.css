@@ -179,3 +179,15 @@ body {
     color: #F9FAF8;
 
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.copyright {
+    color: #E5E7EB;
+}
