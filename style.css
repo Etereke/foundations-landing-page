@@ -24,8 +24,6 @@ a, .section-1-para {
     color: #F9FAF8;
 }
 
-
-
 body {
     margin: 0;
     padding: 0;
@@ -73,4 +71,44 @@ body {
 
 .section-1-para {
     margin: 5px 0 10px;
+}
+
+
+
+
+.section-2 {
+    background-color: #F9FAF8;
+}
+
+.section-2-title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 45px;
+}
+
+.card {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.card-img {
+    width: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 15px;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.card-holder {
+    display: flex;
+    gap: 70px;
+    justify-content: center;
 }
